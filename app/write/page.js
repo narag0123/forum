@@ -13,7 +13,7 @@ export default function Write() {
                     name="content"
                     placeholder="글내용"
                 />
-                <input />
+
                 <button type="submit">요청</button>
             </form>
         </div>
